@@ -7,21 +7,39 @@ main:
   # - name: Tour
   #   url: tour
   #   weight: 10
-  - name: News
-    url: post
-    weight: 10
+  # - name: News
+  #   url: post
+  #   weight: 10
   - name: Organizers
     url: people
     weight: 20
-  - name: Venue
+
+  - name: Speakers
+    url: speakers
+    weight: 25
+
+  - name: Venue & Travel
     url: venue
     weight: 30
+
+  - name: Call for abstracts
+    url: abstract_call
+    weight: 35
+  - name: Registration
+    url: registration
+    weight: 38
+
   - name: Agenda
     url: agenda
     weight: 40
+
+  - name: Excursion
+    url: excursion
+    weight: 45
+
   - name: Past events
     url: past_events
     weight: 50
-  - name: Contact
-    url: contact
-    weight: 60
+  # - name: Contact
+  #   url: contact
+  #   weight: 60
