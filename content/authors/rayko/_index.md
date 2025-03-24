@@ -2,6 +2,9 @@
 # Display name
 title: Rayko Ivanov Stantchev 
 
+user_groups:
+  - Organizing Committee
+
 # Username (this should match the folder name)
 authors: rayko
 #  - Rayko I. Stantchev
@@ -101,8 +104,6 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Principal Investigators
   
 
 
