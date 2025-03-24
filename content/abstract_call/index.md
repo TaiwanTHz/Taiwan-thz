@@ -27,5 +27,11 @@ share: false
 # type: post
 ---
 ## Deadline
-The deadline for call for abstracts is to be decided.
+Submission deadline: May 30, 2025. 
+
+
+Please use the provided Microsoft Word template, which can be downloaded [HERE](https://docs.google.com/document/d/1QMRgKbzOAdgBu1WukUAzMv2sUDO8zzh3/edit?usp=sharing&ouid=100366306031512803527&rtpof=true&sd=true), to prepare your abstract. 
+Please **submit** your one-page word and PDF files to HERE. 
+
+If you encounter difficulties with abstract submission, please contact the conference secretary at [taiwanthz@gmail.com](mailto:taiwanthz@gmail.com)
 

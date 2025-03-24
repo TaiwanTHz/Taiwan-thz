@@ -2,9 +2,13 @@
 # Display name
 title: Shang-Hua Yang 楊尚樺
 
+user_groups:
+  - Conference Chair
 # Full Name (for SEO)
 first_name: Shang-Hua
 last_name: Yang
+
+
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,8 +65,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-  - Principal Investigators
+
 ---
 
 My personal website can be found at [https://www.ee.nthu.edu.tw/shanghua/index.html](https://www.ee.nthu.edu.tw/shanghua/index.html).

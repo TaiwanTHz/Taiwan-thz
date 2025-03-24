@@ -27,7 +27,9 @@ share: false
 # type: post
 ---
 
-Registration will open soon (working on the setting up the links). Register before May 15th to receive a discount.
+Registration link: [https://forms.gle/svk5B5hpG2ogx3Lq5](https://forms.gle/svk5B5hpG2ogx3Lq5)
+
+Register before May 15th to receive a discount.
 
 
 Regular registration fees include lunch, refreshment and banquet. Student registration fees include lunch and refreshment.
