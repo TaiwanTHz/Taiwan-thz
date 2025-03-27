@@ -52,7 +52,7 @@ Google maps link: [https://maps.app.goo.gl/JddumxrPcsUvvYMBA](https://maps.app.g
 # Accommodation 
 
 THE HO HOTEL (Hotel/HSR Free Shuttle Service)
-THE HO HOTEL is the official accommodation for the 2025 Taiwan THz Summer Workshop, offering special reduced rates and essential assistance with your reservation. To book a room, please contact the conference secretary, Shelly Lee, at [jh.lee@gapp.nthu.edu.tw](mailto:jh.lee@gapp.nthu.edu.tw), before May 30.
+THE HO HOTEL is the official accommodation for the 2025 Taiwan THz Summer Workshop, offering special reduced rates and essential assistance with your reservation. To book a room, please contact the conference secretary, Shelly Lee, at [taiwanthz@gmail.com](mailto:taiwanthz@gmail.com), before May 30.
 
 
 **Address**: 
