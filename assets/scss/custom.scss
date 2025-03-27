@@ -43,8 +43,17 @@ max-width: 100%;
     max-width: 100%;
 }
 
+@media (max-width: 500px) {
+.navbar-brand {
+  overflow-wrap: break-word;
+  max-width: 57%;
+}}
+
+
+ 
 body {
 	counter-reset: eqNum;
+/*  margin-left: 10px;*/
 }
 
 eqn::after{
