@@ -36,11 +36,13 @@ Regular registration fees include lunch, refreshment and banquet. Student regist
 
 **International Registration Fee** <br>
 *Early-bird* (by May 15, 2025): <br>
-Regular: 300 USD /Student: 100 USD
+Regular: 250 USD /Student: 70 USD
 
 *Late* (from May 16, 2025) / *Onsite*: <br>
-Regular: 400 USD / Student: 150 USD
+Regular: 350 USD / Student: 90 USD
 
 **Domestic Registration Fee** <br>
-Regular: 5000 NTD / Student: 1500 NTD <br>
+Regular: 8000 NTD / Student: 2000 NTD <br>
+*Late* (from May 16, 2025) / *Onsite*: Regular: 11000 NTD / Student: 2500 NTD <br>
+
 Additional banquet ticket for accompanying person: 40 USD (International) / 1200 NTD (Local)

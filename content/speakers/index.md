@@ -54,4 +54,10 @@ Hai-Han Lu (National Taipei University of Technology, Taiwan)
 
 Tsun-Hsu Chang (National Tsing Hua University, Taiwan)
 
+Rayko Ivanov Stantchev (National Sun Yat-sen University, Taiwan)
 
+Yu-Hsiang Cheng (National Taiwan University, Taiwan)
+
+Kosuke Murate (Kosuke Murate, Japan)
+
+Chia-Wen Lin (National Tsing Hua University, Taiwan)

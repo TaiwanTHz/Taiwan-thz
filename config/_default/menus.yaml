@@ -29,9 +29,9 @@ main:
     url: registration
     weight: 38
 
-  - name: Agenda
-    url: agenda
-    weight: 40
+  # - name: Agenda
+  #   url: agenda
+  #   weight: 40
 
   - name: Excursion
     url: excursion
