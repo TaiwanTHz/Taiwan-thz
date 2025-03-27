@@ -3,8 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Taiwan THz research # Website name
-baseURL: 'https://example.com/' # Website URL
+title: Taiwan THz summer workshop 2025 # Website name
+baseURL: 'https://taiwanthz.org/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -48,6 +48,9 @@ taxonomies:
   author: authors
 markup:
   _merge: deep
+  tableOfContents:
+    startLevel: 1
+    endLevel: 4
 related:
   threshold: 80
   includeNewer: true

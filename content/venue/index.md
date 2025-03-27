@@ -35,11 +35,11 @@ share: false
 
 
 
-## Venue location
+# Venue location
 
 Department of Electrophysics, NYCU <br>
 Science Building III, No 1001, University Rd., <br>
- Hsinchu 300, Taiwan <br>
+ Hsinchu 300, Taiwan <br> 
 
 國立陽明交通大學 科學三館 (B1 次軒廳 )
 
@@ -49,7 +49,7 @@ Google maps link: [https://maps.app.goo.gl/JddumxrPcsUvvYMBA](https://maps.app.g
 
 ![Venue picture](./image6.png)
 
-## Accommodation 
+# Accommodation 
 
 THE HO HOTEL (Hotel/HSR Free Shuttle Service)
 THE HO HOTEL is the official accommodation for the 2025 Taiwan THz Summer Workshop, offering special reduced rates and essential assistance with your reservation. To book a room, please contact the conference secretary, Shelly Lee, at [jh.lee@gapp.nthu.edu.tw](mailto:jh.lee@gapp.nthu.edu.tw), before May 30.
@@ -81,20 +81,20 @@ Travel between the Hotel and Conference Venue (12 minutes walk)
 
 
 
-## Taoyuan Airport to THE HO HOTEL
+# Taoyuan Airport to THE HO HOTEL
 
-### Method 1: Taxi (direct)
+## Method 1: Taxi (direct)
 to the THE HO HOTEL (和選旅)
 Duration: 40–60 minutes (depending on traffic).
 Cost: NT$1,200–1,500.
 
-### Method 2: Bus + Walk (9 mins)
+## Method 2: Bus + Walk (9 mins)
 1. Take the Bus (#1250, RI HAO BUS) from the Taoyuan International Airport Terminal 1/Terminal 2 Stop to National Yang Ming Chiao Tung Stop. Duration: 50 - 70 minutes. Cost: NT$200. 
 2. National Yang Ming Chiao Tung Stop, walk toward Daxue Rd for 3-4 mins and take the right turn.  Walk for 4-6 mins to the THE HO HOTEL (和選旅). 
 Total Duration:  60 – 80 minites 
 Total Cost:  NT$200.
 
-### Method 3: Airport MRT + High-speed rail (HSR) + Free Shuttle 
+## Method 3: Airport MRT + High-speed rail (HSR) + Free Shuttle 
 1. Take the Taoyuan Airport MRT (Blue Line) from the airport to Taoyuan HSR Station (A18). Duration: 17-20 minutes. Cost: NT$25. 
 2. At Taoyuan HSR Station, take a high-speed rail (HSR) from Taoyuan Station to Hsinchu Station. Duration: 10 minutes. Cost: NT$130.
 3. Take free shuttle* from Hsinchu HSR station directly to the THE HO HOTEL (和選旅).  Duration: 10 minutes. *Reserve in advance.
