@@ -45,8 +45,21 @@ max-width: 100%;
 
 @media (max-width: 500px) {
 .navbar-brand {
-  overflow-wrap: break-word;
-  max-width: 57%;
+/*  overflow-wrap: break-all;*/
+  margin-left: 37px;
+  margin-right: 37px;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: break-word;
+  text-align: center;
+/*  display: -webkit-box;*/
+/*    -webkit-line-clamp: 1;*/
+/*    -webkit-box-orient: vertical;*/
+/*  overflow: hidden;*/
+/*  text-overflow: ellipsis;*/
+/*  font-size: 14px;*/
+
+/*  margin-right: 0px;*/
 }}
 
 

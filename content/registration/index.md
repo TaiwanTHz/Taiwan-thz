@@ -46,3 +46,10 @@ Regular: 8000 NTD / Student: 2000 NTD <br>
 *Late* (from May 16, 2025) / *Onsite*: Regular: 11000 NTD / Student: 2500 NTD <br>
 
 Additional banquet ticket for accompanying person: 40 USD (International) / 1200 NTD (Local)
+
+
+#### Cancellation policy
+In case of cancellation, a written notification must be sent directly to the conference secretary (Shelly Lee, email: taiwanthz@gmail.com).
+
+Before June 6, 2025: 100% of the registration fee will be refund after deducting a handling fee. <br> 
+On or After June 6, 2025: the registration fee and banquet fee will not be refunded (No refund).
