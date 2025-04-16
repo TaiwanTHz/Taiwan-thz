@@ -45,7 +45,7 @@ Regular: 350 USD (equivalent to 11200 NTD) / Student: 90 USD (equivalent to 2880
 Regular: 8000 NTD / Student: 2000 NTD <br>
 *Late* (from May 16, 2025) / *Onsite*: Regular: 11000 NTD / Student: 2500 NTD <br>
 
-Additional banquet ticket for accompanying person: 1200 NTD (Local)
+<!-- Additional banquet ticket for accompanying person: 1200 NTD (Local) -->
 
 
 #### Cancellation policy
