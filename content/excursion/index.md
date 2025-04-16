@@ -30,7 +30,7 @@ share: false
 **Date**: June 27 (Fri) & June 28 (Sat), 2025
 
 
-**Price**: 200 USD (International)  / 6000 NTD (Local). Accompanying person: 150 USD (International) / 4500 NTD (Local)
+**Price**: 2000 NTD. No extra fee Accompanying person/people.
 
 
 Excursion flyer: [PDF download](https://drive.google.com/file/d/1-75Hv3ccmbQiJt6XhZdk8fNfHe9RZ7X1/view?usp=drivesdk)
