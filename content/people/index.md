@@ -41,7 +41,8 @@ sections:
         <img src=./image2.jpeg alt="NSTC" title="NSTC"/>
         <img src=./image3.png alt="NYCU" title="NYCU"/>
         <img src=./image4.png alt="TOP" title="TOP"/>
-        <img src=./image5.gif alt="Intelligent_sensors" title="Intelligent_sensors"/>
+        <img src=./image5.gif alt="Intelligent_sensors" title="Intelligent_sensors"/>        
+        <img src=./image6.png alt="TEMIAC" title="TEMIAC"/>
         </div>
         # ![NTHU](./image1.jpg)
         # ![NTHU](./image2.jpeg)
