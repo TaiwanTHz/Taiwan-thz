@@ -56,20 +56,9 @@ Rayko Ivanov Stantchev (National Sun Yat-sen University, Taiwan)
 
 Yu-Hsiang Cheng (National Taiwan University, Taiwan)
 
-Kosuke Murate (Nagoya University, Japan)
+Kosuke Murate (Kosuke Murate, Japan)
 
 Chia-Wen Lin (National Tsing Hua University, Taiwan)
 
 Sheng-Kwang Hwang (National Cheng Kung University, Taiwan)
 
-Zuo-Min Tsai (National Yang Ming Chiao Tung University, Taiwan)
-
-Tzyy-sheng Horng (National Sun Yat-sen University, Taiwan)
-
-Minoru Fujishima (Hiroshima University, Japan)
-
-Bumki Min (Korea Advanced Institute of Science & Technology, Korea)
-
-Ming-Chang Chou (National Synchrotron Radiation Research Center, Taiwan)
-
-Chien-Ming Tu (National Yang Ming Chiao Tung University, Taiwan)

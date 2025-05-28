@@ -18,6 +18,10 @@ main:
     url: speakers
     weight: 25
 
+  - name: Agenda
+    url: agenda
+    weight: 28
+
   - name: Venue & Travel
     url: venue
     weight: 30

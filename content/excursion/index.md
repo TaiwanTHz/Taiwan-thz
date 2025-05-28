@@ -44,4 +44,3 @@ This two-day journey begins at the Shihmen Reservoir in Taoyuan, where we’ll e
 
 
 
-
