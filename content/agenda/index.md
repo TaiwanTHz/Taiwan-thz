@@ -27,7 +27,7 @@ share: false
 # type: post
 ---
 
-Prentation guidelines found [here]({{<relref "./abstract_call/#presentation-guidelines">}})
+Presentation guidelines found [here]({{<relref "./abstract_call/#presentation-guidelines">}})
 
 <div2>
 
@@ -35,6 +35,8 @@ Prentation guidelines found [here]({{<relref "./abstract_call/#presentation-guid
 
 <iframe class="map" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBGFzU045gRSzdo-0-edoaNn6dOd_hK5jWsE9kRGvcVqlINBCbZUgazTx7zRCwshYma1pLW3Ha3cI3/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"  width="100%" height="600px" style="border:0;" loading="lazy"></iframe>
 
+
+{{< csv-to-table "https://docs.google.com/spreadsheets/d/e/2PACX-1vRBGFzU045gRSzdo-0-edoaNn6dOd_hK5jWsE9kRGvcVqlINBCbZUgazTx7zRCwshYma1pLW3Ha3cI3/pub?output=csv" >}}
 
 
 ## Posters
