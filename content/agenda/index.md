@@ -37,8 +37,6 @@ Presentation guidelines found [here]({{<relref "./abstract_call/#presentation-gu
 
 
 
-## Posters
 
-<iframe class="map" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBGFzU045gRSzdo-0-edoaNn6dOd_hK5jWsE9kRGvcVqlINBCbZUgazTx7zRCwshYma1pLW3Ha3cI3/pubhtml?gid=410791592&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="100%" height="600px" style="border:0;" loading="lazy"></iframe>
 
 </div2>
