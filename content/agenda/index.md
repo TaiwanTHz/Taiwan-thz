@@ -37,6 +37,4 @@ Presentation guidelines found [here]({{<relref "./abstract_call/#presentation-gu
 
 
 
-
-
 </div2>

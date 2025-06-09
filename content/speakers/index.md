@@ -32,8 +32,6 @@ Jong-Shinn Wu (Taiwan Space Agency, Taiwan)
 
 Joo-Hiuk Son (University of Seoul, Korea)
 
-Denis Bandurin (National University of Singapore, Singapore)  - **TBD**
-
 Shang-Hua Yang (National Tsing Hua University, Taiwan)
 
 Chih-Wei Luo (National Yang Ming Chiao Tung University, Taiwan)
@@ -48,8 +46,6 @@ Chia-Yi Huang (Tunghai University, Taiwan)
 
 Chia-Yi Yeh (National Taiwan University, Taiwan)
 
-Hai-Han Lu (National Taipei University of Technology, Taiwan)
-
 Tsun-Hsu Chang (National Tsing Hua University, Taiwan)
 
 Rayko Ivanov Stantchev (National Sun Yat-sen University, Taiwan)
@@ -57,8 +53,6 @@ Rayko Ivanov Stantchev (National Sun Yat-sen University, Taiwan)
 Yu-Hsiang Cheng (National Taiwan University, Taiwan)
 
 Kosuke Murate (Kosuke Murate, Japan)
-
-Chia-Wen Lin (National Tsing Hua University, Taiwan)
 
 Sheng-Kwang Hwang (National Cheng Kung University, Taiwan)
 
