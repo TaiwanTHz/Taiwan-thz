@@ -34,6 +34,8 @@ Joo-Hiuk Son (University of Seoul, Korea)
 
 Shang-Hua Yang (National Tsing Hua University, Taiwan)
 
+Willie Padilla (Duke University, USA)
+
 Chih-Wei Luo (National Yang Ming Chiao Tung University, Taiwan)
 
 Hsin-Yu Yao (National Chung Cheng University, Taiwan) 
@@ -41,6 +43,12 @@ Hsin-Yu Yao (National Chung Cheng University, Taiwan)
 Chun-Hsing Li (National Taiwan University, Taiwan)
 
 Chien-Ming Tu (National Yang Ming Chiao Tung University, Taiwan)
+
+Hironori Ito (University of Yamanashi, Japan)
+
+Ming-Chang Chou (National Synchrotron Radiation Research Center, Taiwan)
+
+Minoru Fujishima (Hiroshima University, Japan)
 
 Chia-Yi Huang (Tunghai University, Taiwan)
 
@@ -56,3 +64,8 @@ Kosuke Murate (Kosuke Murate, Japan)
 
 Sheng-Kwang Hwang (National Cheng Kung University, Taiwan)
 
+Bumki Min (Korea Advanced Institute of Science & Technology, Korea)
+
+Tzyy-sheng Horng (National Sun Yat-sen University, Taiwan)
+
+Zuo-Min Tsai (National Yang Ming Chiao Tung University, Taiwan)
