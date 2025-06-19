@@ -1,5 +1,5 @@
 ---
-title: Talk schedule and agenda now published.
+title: The online handout is now published.
 date: '2025-06-19'
 #lastmod: '2022-09-01T10:24:33+08:00'
 
