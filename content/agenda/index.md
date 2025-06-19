@@ -27,7 +27,7 @@ share: false
 # type: post
 ---
 
-Presentation guidelines found [here]({{<relref "./abstract_call/#presentation-guidelines">}})
+Presentation guidelines found [here]({{<relref "./abstract_call/#presentation-guidelines">}}) and here is the link to the [Online Handout](https://drive.google.com/file/d/1uzYxiwpyNtc7yAVwkisL1yrSCjRwFnlv/view?usp=sharing)
 
 <div2>
 
