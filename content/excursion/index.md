@@ -34,7 +34,10 @@ share: false
 
 
 Excursion flyer: [PDF download](https://drive.google.com/file/d/1-75Hv3ccmbQiJt6XhZdk8fNfHe9RZ7X1/view?usp=drivesdk)
-Note, there are Google map links to the actual places.
+
+
+Excursion Itinerary: [PDF download](https://drive.google.com/file/d/1EZ95QbrP7y2By96eu1LBPf0E4URyL2tp/view?usp=sharing) 
+
 
 This two-day journey begins at the Shihmen Reservoir in Taoyuan, where we’ll enjoy a delicious multi-course feast featuring fresh fish by the water’s edge. As night falls, the colorful lights reflecting on the reservoir create a stunning evening view. Later in the evening, we’ll head up into the mountains to spend the night at a cozy farmhouse guesthouse nestled in the serene landscape of Lala mountain. The next morning, we’ll take a peaceful stroll along the forest trails of Lalashan Giant Trees park, soaking in the morning light, the lush greenery, and the refreshing phytoncides of the forest air. In the afternoon, we’ll visit Balung and Jiaobanshan Residence to admire the dramatic cliffside views of the Northern Cross-Island Highway and enjoy breathtaking panoramas of the reservoir from above. On our way back, we’ll stop by Cihu Mausoleum—a site rich in history—to reflect on a century of war, political shifts, and historical change. We’ll wrap up our journey at Daxi Old Street, where beautifully preserved buildings from the Japanese colonial period line the streets. Here, we’ll also indulge in local Taiwanese delicacies such as sticky rice sausage, savory rice pudding, tofu pudding, and marinated dried tofu—a perfect ending to a memorable trip.
 
