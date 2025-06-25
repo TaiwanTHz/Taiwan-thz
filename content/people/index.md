@@ -8,7 +8,7 @@ sections:
   - block: people
     content:
       title: Meet the organizers
-      text: Still updating this website
+      # text:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
@@ -37,12 +37,13 @@ sections:
       text: Physics Research Promotion Center, <br>
         National Science and Technology Council Terahertz Optics & Photonics Center, National Tsing Hua University Intelligent Sensor Alliance 
         <div class="row">
-        <img src=./image1.jpg alt="NTHU"  height="70px" title="NTHU"/>
+        <img src=./image1.jpg alt="NTHU" width="250" title="NTHU"/>
         <img src=./image2.jpeg alt="NSTC" title="NSTC"/>
         <img src=./image3.png alt="NYCU" title="NYCU"/>
-        <img src=./image4.png alt="TOP" title="TOP"/>
-        <img src=./image5.gif alt="Intelligent_sensors" title="Intelligent_sensors"/>        
-        <img src=./image6.png alt="TEMIAC" title="TEMIAC"/>
+        <img src=./image7.jpg alt="MetaTek" width="500" title="MetaTek"/>
+        <img src=./image4.png alt="TOP" width="650" title="TOP"/>
+        <img src=./image5.gif alt="Intelligent_sensors" width="650" title="Intelligent_sensors"/>     
+        <img src=./image6.png alt="TEMIAC" width="650" title="TEMIAC"/>
         </div>
         # ![NTHU](./image1.jpg)
         # ![NTHU](./image2.jpeg)
