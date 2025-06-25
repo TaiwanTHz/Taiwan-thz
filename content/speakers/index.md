@@ -60,7 +60,7 @@ Rayko Ivanov Stantchev (National Sun Yat-sen University, Taiwan)
 
 Yu-Hsiang Cheng (National Taiwan University, Taiwan)
 
-Kosuke Murate (Kosuke Murate, Japan)
+Kosuke Murate (Nagoya University, Japan)
 
 Sheng-Kwang Hwang (National Cheng Kung University, Taiwan)
 
