@@ -3,7 +3,7 @@
 title: Hsin-Yu Yao 姚欣佑
 
 user_groups:
-  - Organizing Committee
+  - Organizing Committee_x
 # Full Name (for SEO)
 first_name: Hsin-Yu
 last_name: Yao

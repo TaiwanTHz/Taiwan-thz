@@ -3,7 +3,7 @@
 title: Chien-Ming Tu 杜建明
 
 user_groups:
-  - Organizing Committee
+  - Organizing Committee_x
 # Full Name (for SEO)
 first_name: Chien-Ming
 last_name: Tu

@@ -3,7 +3,7 @@
 title: Chih-Wei Luo 羅志偉
 
 user_groups:
-  - Conference co-Chair
+  - Conference co-Chair_x
 # Full Name (for SEO)
 first_name: Chih-Wei
 last_name: Luo
