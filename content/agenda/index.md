@@ -25,15 +25,13 @@ featured: false
 share: false
 
 # type: post
----
 
-Presentation guidelines found [here]({{<relref "./abstract_call/#presentation-guidelines">}}) and here is the link to the [Online Handout](https://drive.google.com/file/d/1uzYxiwpyNtc7yAVwkisL1yrSCjRwFnlv/view?usp=sharing)
+---
 
 <div2>
 
 
-
-<iframe class="map" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRBGFzU045gRSzdo-0-edoaNn6dOd_hK5jWsE9kRGvcVqlINBCbZUgazTx7zRCwshYma1pLW3Ha3cI3/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"  width="100%" height="600px" style="border:0;" loading="lazy"></iframe>
+<iframe class="map" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQpEIfHyD_AXr2ma1p2e0KKpU3s24F8fGM40qQaVNqyBHCOVDEcKycO0a2Lq7XlcWTHTKL9ajqQE20D/pubhtml?gid=0&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false"  width="100%" height="600px" style="border:0;" loading="lazy"></iframe>
 
 
 

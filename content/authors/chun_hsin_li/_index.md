@@ -3,7 +3,7 @@
 title: Chun-Hsing Li 李俊興
 
 user_groups:
-  - Organizing Committee
+  - Organizing Committee_x
 # Full Name (for SEO)
 first_name: Chun-Hsing
 last_name: Li

@@ -3,7 +3,7 @@
 title: Chien-Nan Kuo 郭建男
 
 user_groups:
-  - Organizing Committee
+  - Organizing Committee_x
 # Full Name (for SEO)
 first_name: Chien-Nan
 last_name: Kuo
