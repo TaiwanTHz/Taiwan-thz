@@ -3,7 +3,7 @@
 title: Yu-Hsiang Cheng 鄭宇翔
 
 user_groups:
-  - Conference Chair
+  - Organizing Committee_x
 # Full Name (for SEO)
 first_name: Yu-Hsiang
 last_name: Cheng
