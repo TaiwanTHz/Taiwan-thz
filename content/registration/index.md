@@ -27,6 +27,4 @@ share: false
 # type: post
 ---
 
-Registration link: [https://forms.gle/8Hba6io8rLYqhtYd7](https://forms.gle/8Hba6io8rLYqhtYd7)
-
-Register before November 28th to receive a cookie.
+Registration is not yet open.

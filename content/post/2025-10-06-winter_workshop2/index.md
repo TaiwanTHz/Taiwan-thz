@@ -16,7 +16,7 @@ Anoucement that Taiwan THz Winter workshop (II) 2025 will be held in National Ta
 
 <!--more-->
 
-The Taiwan THz summer workshop 2025 will be hosted by the Department of Electrophysics at National Yang Ming Chiao Tung University, with further details found [here]({{<relref "/venue">}}). The dates are Thu-26/Jun and 27/Jun with an excursion on Sat-28/Jun.
+The Taiwan THz summer workshop 2025 will be hosted by the Department of Electrical Engineering at National Taiwan University, Taipei, with further details found [here]({{<relref "/venue">}}).
 
 
 <img src="./featured.jpg" alt="alt text" width="350"/>
