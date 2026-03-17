@@ -27,4 +27,4 @@ share: false
 # type: post
 ---
 
-Registration is not yet open.
+Registration is now open, there is a payment link at the end of the form [https://docs.google.com/forms/d/e/1FAIpQLSfm927ZieWAlWsJH1Nz-xNCzcIhfAMw1nIb5pgfsrBwnFz4gw/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfm927ZieWAlWsJH1Nz-xNCzcIhfAMw1nIb5pgfsrBwnFz4gw/viewform?usp=publish-editor).
