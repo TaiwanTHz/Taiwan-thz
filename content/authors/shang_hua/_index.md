@@ -3,7 +3,7 @@
 title: Shang-Hua Yang 楊尚樺
 
 user_groups:
-  - Organizing Committee
+  - Conference Chair
 # Full Name (for SEO)
 first_name: Shang-Hua
 last_name: Yang

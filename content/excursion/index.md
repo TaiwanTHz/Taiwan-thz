@@ -10,8 +10,8 @@ summary: Agenda.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2026-12-03T16:00:00+08:00'
+date_end: '2026-12-03T21:00:00+08:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -27,23 +27,53 @@ share: false
 # type: post
 ---
 
-**Date**: June 27 (Fri) & June 28 (Sat), 2025
+**Date**: December 3 (Thu), 2026
 
+<div style="
+display:grid;
+grid-template-columns:repeat(auto-fit, minmax(320px, 1fr));
+gap:20px;
+margin-top:35px;
+margin-bottom:45px;
+">
 
-**Price**: 2000 NTD. No extra fee for accompanying person/people.
+<div style="height:320px; overflow:hidden; border-radius:8px;">
+<img
+src="./image1.jpg"
+alt="Feng Chia Night Market entrance"
+style="
+width:100%;
+height:100%;
+object-fit:cover;
+object-position:center 20%;
+display:block;
+margin:0;
+">
+</div>
 
+<div style="height:320px; overflow:hidden; border-radius:8px;">
+<img
+src="./image2.jpg"
+alt="Feng Chia Night Market at night"
+style="
+width:100%;
+height:100%;
+object-fit:cover;
+object-position:center center;
+display:block;
+margin:0;
+">
+</div>
 
-Excursion flyer: [PDF download](https://drive.google.com/file/d/1-75Hv3ccmbQiJt6XhZdk8fNfHe9RZ7X1/view?usp=drivesdk)
+</div>
 
+<p style="margin-top:0; margin-bottom:28px; line-height:1.8;">
+This year’s four-hour excursion will take us to Feng Chia Night Market in Taichung, one of Taiwan’s most vibrant and popular night markets. As evening falls, we’ll stroll through the lively streets filled with colorful signs, bustling crowds, and the irresistible aromas of local street food. Along the way, participants can sample a wide variety of Taiwanese favorites, such as fried chicken cutlets, grilled skewers, sausages, stinky tofu, bubble tea, and creative snacks unique to the area. In addition to enjoying the food, there will also be time to browse the many clothing stores, souvenir shops, game stalls, and small local boutiques throughout the market. This relaxed four-hour visit offers a wonderful opportunity to experience Taiwan’s energetic night-market culture, enjoy delicious food, and spend an enjoyable evening together.
+</p>
 
-Excursion Itinerary: [PDF download](https://drive.google.com/file/d/1EZ95QbrP7y2By96eu1LBPf0E4URyL2tp/view?usp=sharing) 
-
-
-This two-day journey begins at the Shihmen Reservoir in Taoyuan, where we’ll enjoy a delicious multi-course feast featuring fresh fish by the water’s edge. As night falls, the colorful lights reflecting on the reservoir create a stunning evening view. Later in the evening, we’ll head up into the mountains to spend the night at a cozy farmhouse guesthouse nestled in the serene landscape of Lala mountain. The next morning, we’ll take a peaceful stroll along the forest trails of Lalashan Giant Trees park, soaking in the morning light, the lush greenery, and the refreshing phytoncides of the forest air. In the afternoon, we’ll visit Balung and Jiaobanshan Residence to admire the dramatic cliffside views of the Northern Cross-Island Highway and enjoy breathtaking panoramas of the reservoir from above. On our way back, we’ll stop by Cihu Mausoleum—a site rich in history—to reflect on a century of war, political shifts, and historical change. We’ll wrap up our journey at Daxi Old Street, where beautifully preserved buildings from the Japanese colonial period line the streets. Here, we’ll also indulge in local Taiwanese delicacies such as sticky rice sausage, savory rice pudding, tofu pudding, and marinated dried tofu—a perfect ending to a memorable trip.
-
-這趟兩天一夜的旅程，將從桃園石門水庫展開。在水庫畔享用多樣新鮮的活魚料理，同時欣賞堤岸邊絢麗迷人的五彩夜景，為旅程揭開美好序幕。夜晚，我們將前往位於拉拉山的農場民宿，沉浸在山林間的靜謐夜色中。翌日清晨，可漫步於拉拉山國家森林遊樂區的步道，在晨光、森林與滿滿芬多精的環繞下，感受大自然的洗禮。午後，我們將造訪巴陵及角板山公園，欣賞壯麗的北橫斷崖風光，遠眺壯闊的水庫景色，感受山水交融的震撼。返程途中，特別安排前往慈湖陵寢，一窺歷史現場，緬懷百年來的戰爭歲月與政治更迭。最後一站，我們來到富有歷史風情的大溪老街，欣賞保存完整的日治時期街屋建築，並品嚐在地美食──糯米腸、碗粿、豆花與香氣四溢的豆干滷味，為這段充實旅程畫下圓滿句點。 
-
-
+<p style="margin-top:0; line-height:1.9;">
+今年的行程將安排一趟約四小時的臺中逢甲夜市之旅。隨著夜幕降臨，我們將漫步於熱鬧繁華的夜市街道，在繽紛招牌、熙來攘往的人群與陣陣美食香氣中，感受最具臺灣特色的夜市文化。沿途可自由品嚐各式在地小吃，例如香酥雞排、炭烤串燒、臺式香腸、臭豆腐、珍珠奶茶，以及充滿創意的特色點心。除了享用美食之外，也可逛逛夜市中的服飾店、伴手禮商店、遊戲攤位與特色小店，體驗逢甲商圈多元而充滿活力的氛圍。透過這趟輕鬆愉快的四小時行程，大家不僅能品嚐臺灣美食，也能深入感受熱鬧且富有人情味的夜市生活，為旅程留下難忘的夜晚回憶。
+</p>
 
 
 

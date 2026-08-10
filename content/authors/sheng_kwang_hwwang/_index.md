@@ -3,7 +3,7 @@
 title: Sheng-Kwang Hwang 黃勝廣
 
 user_groups:
-  - Organizing Committee
+  - Organizing Committee Members
 # Full Name (for SEO)
 first_name: Sheng-Kwang
 last_name: Hwang

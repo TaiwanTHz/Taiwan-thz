@@ -3,7 +3,7 @@
 title: Rayko Ivanov Stantchev 
 
 user_groups:
-  - Conference Chair
+  - Organizing Committee Chair
 
 # Username (this should match the folder name)
 authors: rayko

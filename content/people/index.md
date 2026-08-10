@@ -1,7 +1,6 @@
 ---
 title: People
 date: 2022-10-24
-
 type: landing
 
 sections:
@@ -15,7 +14,8 @@ sections:
           - Conference Chair
           - Conference co-Chair
           - Conference Secretary
-          - Organizing Committee
+          - Organizing Committee Chair
+          - Organizing Committee Members
           - Principal Investigators
           - Researchers
           - Grad Students
@@ -34,21 +34,48 @@ sections:
     content:
       title: Sponsors
       # subtitle: My subtitle
-      text: Physics Research Promotion Center, <br>
-        National Science and Technology Council Terahertz Optics & Photonics Center, National Tsing Hua University Intelligent Sensor Alliance 
-        <div class="row">
-        <img src=./image1.jpg alt="NTHU" width="250" title="NTHU"/>
-        <img src=./image2.jpeg alt="NSTC" title="NSTC"/>
-        <img src=./image3.png alt="NYCU" title="NYCU"/>
-        <img src=./image7.jpg alt="MetaTek" width="500" title="MetaTek"/>
-        <img src=./image4.png alt="TOP" width="650" title="TOP"/>
-        <img src=./image5.gif alt="Intelligent_sensors" width="650" title="Intelligent_sensors"/>     
-        <img src=./image6.png alt="TEMIAC" width="650" title="TEMIAC"/>
+      text: |
+
+        <div style="display:flex; flex-wrap:wrap; justify-content:space-around; align-items:center; gap:25px; margin-top:30px;">
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./image1(1).png"
+        alt="NTHU"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(0.95);"/>
         </div>
-        # ![NTHU](./image1.jpg)
-        # ![NTHU](./image2.jpeg)
-        # ![NTHU](./image3.png)
-        # ![NTHU](./image4.png)
-        # ![NTHU](./image5.gif)
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./image2(1).png"
+        alt="NSTC"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.45);"/>
+        </div>
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./image3 (1).png"
+        alt="NYCU"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(0.90);"/>
+        </div>
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./image4 (1).png"
+        alt="TOP Center"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.10);"/>
+        </div>
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./image5(1).png"
+        alt="Intelligent Sensor Alliance"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.75);"/>
+        </div>
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./image6 (1).png"
+        alt="TEMIAC"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.05);"/>
+        </div>
+
+          </div>
+    design:
+      columns: '1'
 
 ---

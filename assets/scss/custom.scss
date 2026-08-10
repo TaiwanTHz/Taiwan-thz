@@ -324,3 +324,43 @@ timeline
     position: relative;
   }
 }
+
+
+/************************************
+People / Organizing Committee layout
+************************************/
+
+/* Desktop: 3 people per row */
+.people-widget .people-person {
+  flex: 0 0 33.333333% !important;
+  max-width: 33.333333% !important;
+  width: 33.333333% !important;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-bottom: 35px;
+  text-align: center;
+}
+
+/* Make sure the people row can wrap and stays centered */
+.people-widget .row {
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+/* Tablet: 2 people per row */
+@media (max-width: 992px) {
+  .people-widget .people-person {
+    flex: 0 0 50% !important;
+    max-width: 50% !important;
+    width: 50% !important;
+  }
+}
+
+/* Mobile: 1 person per row */
+@media (max-width: 576px) {
+  .people-widget .people-person {
+    flex: 0 0 100% !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+}

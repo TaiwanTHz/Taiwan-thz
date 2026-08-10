@@ -27,4 +27,14 @@ share: false
 # type: post
 ---
 
-Registration is now open, there is a payment link at the end of the form [https://docs.google.com/forms/d/e/1FAIpQLSfm927ZieWAlWsJH1Nz-xNCzcIhfAMw1nIb5pgfsrBwnFz4gw/viewform?usp=publish-editor](https://docs.google.com/forms/d/e/1FAIpQLSfm927ZieWAlWsJH1Nz-xNCzcIhfAMw1nIb5pgfsrBwnFz4gw/viewform?usp=publish-editor).
+Registration is now open. Register before October 30th to receive an early bird discount.  
+Click [HERE](https://docs.google.com/forms/d/e/1FAIpQLSd7VmkaAOuMP-bQfszA-bRqS9JyQqqxJNd7-JYYc-YbkxG2eA/viewform?usp=header) to register.
+
+Regular registration fees include lunch, refreshment and banquet. Student registration fees include lunch and refreshment.
+
+Registration Fee:<br>
+Early-bird (by October 30, 2026): Regular: 3000 NTD / Student: free<br>
+Late (from October 31, 2026) / Onsite: Regular: 4000 NTD / Student: 1000 NTD
+
+In case of cancellation, a written notification should be sent directly to the conference secretary (Shelly Lee, email: taiwanthz@gmail.com).<br>
+Before November 2, 2026: 100% of the registration fee will be refund after deducting a handling fee. On or After November 3, 2026: the registration fee and banquet fee will not be refunded (No refund).

@@ -27,11 +27,11 @@ share: false
 # type: post
 ---
 # Deadline
-Submission deadline: Sat-2026/April/11. 
+Submission deadline: October 15, 2026. 
 
 
-Please use the provided Microsoft Word template, which can be downloaded [HERE](https://docs.google.com/document/d/1QMRgKbzOAdgBu1WukUAzMv2sUDO8zzh3/edit?usp=sharing&ouid=100366306031512803527&rtpof=true&sd=true), to prepare your abstract. <br>
-**Submit** your one-page PDF files to [HERE](https://docs.google.com/forms/d/e/1FAIpQLSduhMdwkKxpQkSgaTo9ZvJ68GhYuh7Z02pTUfjN6VQumaohTg/viewform?usp=dialog). <br>
+Please use the provided Microsoft Word template, which can be downloaded [HERE](https://docs.google.com/document/d/1SRhckQYCHQZwwWAoqlr89GhLap2bNCdu/edit?usp=sharing&ouid=106603833731202100097&rtpof=true&sd=true), to prepare your abstract. <br>
+**Submit** your one-page PDF files to [HERE](https://docs.google.com/forms/d/e/1FAIpQLSdCEZtvTW9Q2uZf1ISOQMTuC5yBLUzwEdRZS0I1GBMqa25QWA/viewform?usp=publish-editor). <br>
 One submission for each abstract, i.e. submit twice if you have two abstracts.
 
 If you encounter difficulties with abstract submission, please contact the conference secretary at [taiwanthz@gmail.com](mailto:taiwanthz@gmail.com)

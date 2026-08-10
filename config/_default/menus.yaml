@@ -25,6 +25,10 @@ main:
   - name: Venue & Travel
     url: venue
     weight: 30
+  
+  - name: Excursion
+    url: excursion/
+    weight: 35
 
   - name: Call for abstracts
     url: abstract_call
