@@ -34,7 +34,7 @@ share: false
 ## Venue Location
 
 **B01, C. L. Liu Building**  <br>
-National Tsing Hua University(NTHU) <br>
+National Tsing Hua University (NTHU) <br>
 No. 101, Section 2, Kuang-Fu Road, Hsinchu 300, Taiwan
 
 **國立清華大學 劉炯朗館（B1 演講廳）**
@@ -69,7 +69,7 @@ style="width: 100%; height: 100%; object-fit: cover; object-position: center 55%
 </div>
 <div style="text-align: center; margin-top: 10px;">
 <small>
-C. L. Liu Building,National Tsing Hua University(NTHU) <br>
+C. L. Liu Building,National Tsing Hua University (NTHU) <br>
 Photo: National Tsing Hua University
 </small>
 </div>
