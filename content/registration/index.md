@@ -36,5 +36,12 @@ Registration Fee:<br>
 Early-bird (by October 30, 2026): Regular: 3000 NTD / Student: free<br>
 Late (from October 31, 2026) / Onsite: Regular: 4000 NTD / Student: 1000 NTD
 
-In case of cancellation, a written notification should be sent directly to the conference secretary (Shelly Lee, email: taiwanthz@gmail.com).<br>
-Before November 2, 2026: 100% of the registration fee will be refund after deducting a handling fee. On or After November 3, 2026: the registration fee and banquet fee will not be refunded (No refund).
+**Cancellation and Refund Policy**
+
+For registration cancellations or any inquiries regarding registration, please contact the Conference Secretary, Shelly Lee, at taiwanthz@gmail.com.
+
+Cancellations received on or before November 2, 2026:
+100% of the registration fee will be refunded, subject to the deduction of an applicable handling fee.
+
+Cancellations received on or after November 3, 2026:
+No refunds will be provided for either the registration fee or the banquet fee.

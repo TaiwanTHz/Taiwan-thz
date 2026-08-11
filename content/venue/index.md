@@ -33,7 +33,8 @@ share: false
 
 ## Venue Location
 
-**B01, NTHU C. L. Liu Building**  
+**B01, C. L. Liu Building**  <br>
+National Tsing Hua University(NTHU) <br>
 No. 101, Section 2, Kuang-Fu Road, Hsinchu 300, Taiwan
 
 **國立清華大學 劉炯朗館（B1 演講廳）**
@@ -68,7 +69,7 @@ style="width: 100%; height: 100%; object-fit: cover; object-position: center 55%
 </div>
 <div style="text-align: center; margin-top: 10px;">
 <small>
-NTHU C. L. Liu Building<br>
+C. L. Liu Building,National Tsing Hua University(NTHU) <br>
 Photo: National Tsing Hua University
 </small>
 </div>
@@ -123,3 +124,11 @@ We recommend the following hotels for conference participants.
 - #### [Fleur Lis Hotel Hsinchu（芙洛麗大飯店）](https://maps.app.goo.gl/Gz6dwmK4kdvhkycx7)
 
   A modern hotel located close to shopping and dining areas.
+
+- #### [Shin Yuan Celeb Metro Hotel（新苑庭園大飯店／新苑名流都會館）](https://maps.app.goo.gl/7TU1y8QmcPDhXrSq5)
+
+  Conveniently located near Hsinchu Railway Station, approximately a 5-minute walk away. The hotel is also close to Chenghuang Temple and Dongmen Market, making it a convenient option for dining and sightseeing. **Recommended for invited speakers and professors.**
+
+-  #### [Guide Hotel Hsinchu ZhongYang（承攜行旅 新竹中央館）](https://maps.app.goo.gl/1nWtoS3z15Rhdu8P7)
+
+   A budget-friendly hotel located in downtown Hsinchu, with convenient access to Dongmen Market, Chenghuang Temple, Big City Shopping Mall, and nearby dining areas.

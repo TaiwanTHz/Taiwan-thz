@@ -41,7 +41,7 @@ If you encounter difficulties with abstract submission, please contact the confe
 ## Oral Presentation
 Please arrive at the session meeting rooms 15 minutes earlier and reconfirm your presentation slides with workshop staffs. Workshop staffs will stay in session meeting rooms to provide relevant assistance accordingly. **All presentations must be presented in English**.
 1. In every presentation, we will hold up a sign remind you that you have one more minute to enter the Q&A session. Once the Q&A session ends (5 mins later), we will remind you that time is up.
-2. The presenter must load the presentation file onto the session room computer before the beginning of the session. In general, it is NOT suggested to connect your own computer to the projector in the session room.
+2. The presenter must load the presentation file onto the session room computer before the beginning of the session. In general, it is **NOT** suggested to connect your own computer to the projector in the session room.
 
 
 ## Poster Presentation
