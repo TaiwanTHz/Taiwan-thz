@@ -166,6 +166,11 @@ National Sun Yat-sen University, Taiwan
 </div>
 
 <div class="speaker-item">
+<strong>Jaime Gómez Rivas</strong><br>
+Eindhoven University of Technology, Netherlands
+</div>
+
+<div class="speaker-item">
 <strong>Kosuke Murate</strong><br>
 Nagoya University, Japan
 </div>
