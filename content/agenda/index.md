@@ -196,6 +196,11 @@ National Tsing Hua University, Taiwan
 </div>
 
 <div class="speaker-item">
+<strong>Zuo-Min Tsai</strong><br>
+National Yang Ming Chiao Tung University, Taiwan
+</div>
+
+<div class="speaker-item">
 <strong>Chien-Ming Tu</strong><br>
 National Yang Ming Chiao Tung University, Taiwan
 </div>
@@ -228,6 +233,11 @@ National Taiwan University, Taiwan
 <div class="speaker-item">
 <strong>Jung-Ping Liu</strong><br>
 Feng Chia University, Taiwan
+</div>
+
+<div class="speaker-item">
+<strong>Hideaki Kitahara</strong><br>
+University of Fukui, Japan
 </div>
 
 </div>
