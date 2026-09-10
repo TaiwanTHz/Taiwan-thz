@@ -186,6 +186,11 @@ National Tsing Hua University, Taiwan
 </div>
 
 <div class="speaker-item">
+<strong>Tae-In Jeon</strong><br>
+Korea Maritime & Ocean University, South Korea
+</div>
+
+<div class="speaker-item">
 <strong>Ryoma Okada</strong><br>
 Nara Institute of Science and Technology, Japan
 </div>
@@ -479,13 +484,18 @@ University of Fukui, Japan
 <td>Talk 24</td>
 </tr>
 
+<tr>
+<td>15:30 – 16:00</td>
+<td>Talk 25</td>
+</tr>
+
 <tr class="special-row">
-<td>15:30 – 15:40</td>
+<td>16:00 – 16:10</td>
 <td>Closing Ceremony</td>
 </tr>
 
 <tr class="special-row">
-<td>16:00 – 21:00</td>
+<td>16:10 – 21:00</td>
 <td>Excursion</td>
 </tr>
 
