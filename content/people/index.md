@@ -74,7 +74,20 @@ sections:
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.05);"/>
         </div>
 
-          </div>
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+
+        <a href="http://www.qd-taiwan.com"
+        target="_blank"
+        rel="noopener noreferrer"
+        style="display:flex; align-items:center; justify-content:center; width:100%; height:100%;">
+
+        <img src="./QD.jpg"
+        alt="QD Taiwan"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
+
+        </a>
+
+        </div>
     design:
       columns: '1'
 
