@@ -157,7 +157,7 @@ Nagoya University, Japan
 
 <div class="speaker-item">
 <strong>Jin-Wei Shi</strong><br>
-National Central University, Taiwan
+National Taiwan University, Taiwan
 </div>
 
 <div class="speaker-item">
@@ -269,22 +269,33 @@ University of Fukui, Japan
 
 <tr class="session-row">
 <td>8:30 – 10:00</td>
-<td>Session A</td>
+<td>
+<strong>Session A</strong> - Chair: Kosuke Murate
+</td>
 </tr>
 
 <tr>
 <td>8:30 – 9:00</td>
-<td>Talk 1</td>
+<td>
+<strong>Kodo Kawase</strong><br>
+Nagoya University
+</td>
 </tr>
 
 <tr>
 <td>9:00 – 9:30</td>
-<td>Talk 2</td>
+<td>
+<strong>Hyeyoung Ahn</strong><br>
+National Yang Ming Chiao Tung University
+</td>
 </tr>
 
 <tr>
 <td>9:30 – 10:00</td>
-<td>Talk 3</td>
+<td>
+<strong>Fabian Rotermund</strong><br>
+Korea Advanced Institute of Science &amp; Technology
+</td>
 </tr>
 
 <tr class="special-row">
@@ -294,62 +305,90 @@ University of Fukui, Japan
 
 <tr class="session-row">
 <td>10:20 – 12:20</td>
-<td>Session B</td>
+<td>
+<strong>Session B</strong> - Chair: Chien-Ming Tu
+</td>
 </tr>
 
 <tr>
 <td>10:20 – 10:50</td>
-<td>Talk 4</td>
+<td>
+<strong>Jaime Gomez Rivas</strong><br>
+Eindhoven University of Technology
+</td>
 </tr>
 
 <tr>
 <td>10:50 – 11:20</td>
-<td>Talk 5</td>
+<td>
+<strong>Michitoshi Hayashi</strong><br>
+National Taiwan University
+</td>
 </tr>
 
 <tr>
 <td>11:20 – 11:50</td>
-<td>Talk 6</td>
+<td>
+<strong>Tsun-Hsu Chang</strong><br>
+National Tsing Hua University
+</td>
 </tr>
 
 <tr>
 <td>11:50 – 12:20</td>
-<td>Talk 7</td>
+<td>
+<strong>Chien-Ming Tu</strong><br>
+National Yang Ming Chiao Tung University
+</td>
 </tr>
 
 <tr class="special-row">
-<td>12:20 – 13:10</td>
+<td>12:20 – 13:30</td>
 <td>Lunch</td>
 </tr>
 
 <tr class="special-row">
-<td>13:10 – 14:00</td>
-<td>Poster Session</td>
+<td>13:30 – 14:00</td>
+<td>Poster Session (Hallway)</td>
 </tr>
 
 <tr class="session-row">
 <td>14:00 – 16:00</td>
-<td>Session C</td>
+<td>
+<strong>Session C</strong> - Chair: Jin-Wei Shi
+</td>
 </tr>
 
 <tr>
 <td>14:00 – 14:30</td>
-<td>Talk 8</td>
+<td>
+<strong>Chun-Hsing Li</strong><br>
+National Taiwan University
+</td>
 </tr>
 
 <tr>
 <td>14:30 – 15:00</td>
-<td>Talk 9</td>
+<td>
+<strong>Yu-Hsiang Cheng</strong><br>
+National Taiwan University
+</td>
 </tr>
 
 <tr>
 <td>15:00 – 15:30</td>
-<td>Talk 10</td>
+<td>
+<strong>Zuo-Min Tsai</strong><br>
+National Yang Ming Chiao Tung University
+</td>
 </tr>
 
 <tr>
 <td>15:30 – 16:00</td>
-<td>Talk 11</td>
+<td>
+<strong>Chien-Nan Kuo</strong><br>
+National Yang Ming Chiao Tung University
+</td>
 </tr>
 
 <tr class="special-row">
@@ -359,22 +398,33 @@ University of Fukui, Japan
 
 <tr class="session-row">
 <td>16:20 – 17:50</td>
-<td>Session D</td>
+<td>
+<strong>Session D</strong> - Chair: Sheng-Kwang Hwang
+</td>
 </tr>
 
 <tr>
 <td>16:20 – 16:50</td>
-<td>Talk 12</td>
+<td>
+<strong>Kosuke Murate</strong><br>
+Nagoya University
+</td>
 </tr>
 
 <tr>
 <td>16:50 – 17:20</td>
-<td>Talk 13</td>
+<td>
+<strong>Yuan-Hao Huang</strong><br>
+National Tsing Hua University
+</td>
 </tr>
 
 <tr>
 <td>17:20 – 17:50</td>
-<td>Talk 14</td>
+<td>
+<strong>Rayko Ivanov Stantchev</strong><br>
+National Sun Yat-sen University
+</td>
 </tr>
 
 <tr class="special-row">
@@ -384,7 +434,7 @@ University of Fukui, Japan
 
 <tr class="special-row">
 <td>18:30 – 20:30</td>
-<td>Banquet</td>
+<td>Conference Banquet</td>
 </tr>
 
 </table>
@@ -406,22 +456,33 @@ University of Fukui, Japan
 
 <tr class="session-row">
 <td>8:30 – 10:00</td>
-<td>Session E</td>
+<td>
+<strong>Session E</strong> - Chair: Chun-Hsing Li
+</td>
 </tr>
 
 <tr>
 <td>8:30 – 9:00</td>
-<td>Talk 15</td>
+<td>
+<strong>Jin-Wei Shi</strong><br>
+National Taiwan University
+</td>
 </tr>
 
 <tr>
 <td>9:00 – 9:30</td>
-<td>Talk 16</td>
+<td>
+<strong>Tsung-Tse Lin</strong><br>
+Tohoku University
+</td>
 </tr>
 
 <tr>
 <td>9:30 – 10:00</td>
-<td>Talk 17</td>
+<td>
+<strong>Sheng-Kwang Hwang</strong><br>
+National Cheng Kung University
+</td>
 </tr>
 
 <tr class="special-row">
@@ -431,22 +492,33 @@ University of Fukui, Japan
 
 <tr class="session-row">
 <td>10:20 – 11:50</td>
-<td>Session F</td>
+<td>
+<strong>Session F</strong> - Chair: Chan-Shan Yang
+</td>
 </tr>
 
 <tr>
 <td>10:20 – 10:50</td>
-<td>Talk 18</td>
+<td>
+<strong>Tae-In Jeon</strong><br>
+Korea Maritime and Ocean University
+</td>
 </tr>
 
 <tr>
 <td>10:50 – 11:20</td>
-<td>Talk 19</td>
+<td>
+<strong>Sota Mine</strong><br>
+Okayama University
+</td>
 </tr>
 
 <tr>
 <td>11:20 – 11:50</td>
-<td>Talk 20</td>
+<td>
+<strong>Alexander Marvin Weiss</strong><br>
+Yokohama National University
+</td>
 </tr>
 
 <tr class="special-row">
@@ -456,37 +528,54 @@ University of Fukui, Japan
 
 <tr class="special-row">
 <td>12:40 – 13:30</td>
-<td>Poster Session</td>
+<td>Poster Session (Hallway)</td>
 </tr>
 
 <tr class="session-row">
-<td>13:30 – 15:30</td>
-<td>Session G</td>
+<td>13:30 – 16:00</td>
+<td>
+<strong>Session G</strong> - Chair: Rayko Ivanov Stantchev
+</td>
 </tr>
 
 <tr>
 <td>13:30 – 14:00</td>
-<td>Talk 21</td>
+<td>
+<strong>Masahiko Tani</strong><br>
+University of Fukui
+</td>
 </tr>
 
 <tr>
 <td>14:00 – 14:30</td>
-<td>Talk 22</td>
+<td>
+<strong>Chan-Shan Yang</strong><br>
+National Taiwan Normal University
+</td>
 </tr>
 
 <tr>
 <td>14:30 – 15:00</td>
-<td>Talk 23</td>
+<td>
+<strong>Hideaki Kitahara</strong><br>
+University of Fukui
+</td>
 </tr>
 
 <tr>
 <td>15:00 – 15:30</td>
-<td>Talk 24</td>
+<td>
+<strong>Jung-Ping Liu</strong><br>
+Feng Chia University
+</td>
 </tr>
 
 <tr>
 <td>15:30 – 16:00</td>
-<td>Talk 25</td>
+<td>
+<strong>Okada Ryoma</strong><br>
+Nara Institute of Science Technology
+</td>
 </tr>
 
 <tr class="special-row">
@@ -496,7 +585,7 @@ University of Fukui, Japan
 
 <tr class="special-row">
 <td>16:10 – 21:00</td>
-<td>Excursion</td>
+<td>Conference Excursion</td>
 </tr>
 
 </table>
