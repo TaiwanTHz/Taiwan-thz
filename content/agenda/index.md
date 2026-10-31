@@ -270,7 +270,7 @@ University of Fukui, Japan
 <tr class="session-row">
 <td>8:30 – 10:00</td>
 <td>
-<strong>Session A</strong> - Chair: Kosuke Murate
+<strong>Session A</strong> 
 </td>
 </tr>
 
@@ -306,7 +306,7 @@ Korea Advanced Institute of Science &amp; Technology
 <tr class="session-row">
 <td>10:20 – 12:20</td>
 <td>
-<strong>Session B</strong> - Chair: Chien-Ming Tu
+<strong>Session B</strong> 
 </td>
 </tr>
 
@@ -355,7 +355,7 @@ National Yang Ming Chiao Tung University
 <tr class="session-row">
 <td>14:00 – 16:00</td>
 <td>
-<strong>Session C</strong> - Chair: Jin-Wei Shi
+<strong>Session C</strong> 
 </td>
 </tr>
 
@@ -399,7 +399,7 @@ National Yang Ming Chiao Tung University
 <tr class="session-row">
 <td>16:20 – 17:50</td>
 <td>
-<strong>Session D</strong> - Chair: Sheng-Kwang Hwang
+<strong>Session D</strong>
 </td>
 </tr>
 
@@ -457,7 +457,7 @@ National Sun Yat-sen University
 <tr class="session-row">
 <td>8:30 – 10:00</td>
 <td>
-<strong>Session E</strong> - Chair: Chun-Hsing Li
+<strong>Session E</strong> 
 </td>
 </tr>
 
@@ -493,7 +493,7 @@ National Cheng Kung University
 <tr class="session-row">
 <td>10:20 – 11:50</td>
 <td>
-<strong>Session F</strong> - Chair: Chan-Shan Yang
+<strong>Session F</strong> 
 </td>
 </tr>
 
@@ -534,7 +534,7 @@ Yokohama National University
 <tr class="session-row">
 <td>13:30 – 16:00</td>
 <td>
-<strong>Session G</strong> - Chair: Rayko Ivanov Stantchev
+<strong>Session G</strong>
 </td>
 </tr>
 
