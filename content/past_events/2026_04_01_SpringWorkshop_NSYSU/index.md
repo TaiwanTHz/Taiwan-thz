@@ -1,5 +1,5 @@
 ---
-title: Taiwan THz Spring Workshop 2026
+title: Taiwan THz Winter Workshop 2026
 summary: Taiwan THz meeting, April 2026 in NSYSU.
 tags:
   - Taiwan THz
