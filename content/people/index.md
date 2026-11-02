@@ -36,7 +36,7 @@ sections:
       # subtitle: My subtitle
       text: |
 
-        <div style="display:flex; flex-wrap:wrap; justify-content:space-around; align-items:center; gap:25px; margin-top:30px;">
+        <div style="display:grid; grid-template-columns:repeat(4, 220px); justify-content:center; align-items:center; column-gap:45px; row-gap:25px; margin-top:30px;">
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
         <img src="./image1(1).png"
@@ -75,19 +75,24 @@ sections:
         </div>
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
-
         <a href="http://www.qd-taiwan.com"
         target="_blank"
         rel="noopener noreferrer"
         style="display:flex; align-items:center; justify-content:center; width:100%; height:100%;">
-
         <img src="./QD.jpg"
         alt="QD Taiwan"
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
-
         </a>
+        </div>
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./TASA.jpg"
+        alt="Taiwan Space Agency"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
+        </div>
 
         </div>
+
     design:
       columns: '1'
 
