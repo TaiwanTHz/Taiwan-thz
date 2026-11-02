@@ -79,14 +79,14 @@ sections:
         target="_blank"
         rel="noopener noreferrer"
         style="display:flex; align-items:center; justify-content:center; width:100%; height:100%;">
-        <img src="./QD.jpg"
+        <img src="./QD.png"
         alt="QD Taiwan"
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </a>
         </div>
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
-        <img src="./TASA.jpg"
+        <img src="./TASA.png"
         alt="Taiwan Space Agency"
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </div>
