@@ -36,7 +36,7 @@ sections:
       # subtitle: My subtitle
       text: |
 
-        <div style="display:grid; grid-template-columns:repeat(4, 220px); justify-content:center; align-items:center; column-gap:45px; row-gap:25px; margin-top:30px;">
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:25px 35px; max-width:1200px; margin:30px auto 0 auto;">
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
         <img src="./image1(1).png"
@@ -60,6 +60,12 @@ sections:
         <img src="./image4 (1).png"
         alt="TOP Center"
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.10);"/>
+        </div>
+
+        <div style="width:210px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./YJ.png"
+        alt="YJ"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </div>
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
