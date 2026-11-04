@@ -30,13 +30,16 @@ sections:
       show_social: true
       columns: '2'
 
-  - block: markdown
-    content:
-      title: Sponsors
-      # subtitle: My subtitle
+  -  block: markdown
+     content:
+      title: ''
       text: |
 
-        <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:25px 35px; max-width:1200px; margin:30px auto 0 auto;">
+        <h3 style="text-align:center; margin-top:20px; margin-bottom:15px;">
+        Organizers
+        </h3>
+
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:25px 50px; margin-bottom:35px;">
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
         <img src="./image1(1).png"
@@ -45,10 +48,19 @@ sections:
         </div>
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
-        <img src="./image2(1).png"
-        alt="NSTC"
-        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.45);"/>
+        <img src="./TASA.png"
+        alt="Taiwan Space Agency"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </div>
+
+        </div>
+
+
+        <h3 style="text-align:center; margin-top:20px; margin-bottom:15px;">
+        Co-organizers
+        </h3>
+
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:25px 35px; max-width:1200px; margin:0 auto 35px auto;">
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
         <img src="./image3 (1).png"
@@ -60,12 +72,6 @@ sections:
         <img src="./image4 (1).png"
         alt="TOP Center"
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.10);"/>
-        </div>
-
-        <div style="width:210px; height:150px; display:flex; align-items:center; justify-content:center;">
-        <img src="./YJ.png"
-        alt="YJ"
-        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </div>
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
@@ -80,6 +86,21 @@ sections:
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.05);"/>
         </div>
 
+        </div>
+
+
+        <h3 style="text-align:center; margin-top:20px; margin-bottom:15px;">
+        Sponsors
+        </h3>
+
+        <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:25px 35px; max-width:1200px; margin:0 auto 20px auto;">
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./image2(1).png"
+        alt="NSTC"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.45);"/>
+        </div>
+
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
         <a href="http://www.qd-taiwan.com"
         target="_blank"
@@ -92,14 +113,20 @@ sections:
         </div>
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
-        <img src="./TASA.png"
-        alt="Taiwan Space Agency"
+        <img src="./YJ.png"
+        alt="YJ"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
+        </div>
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./prpc.webp"
+        alt="PRPC"
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </div>
 
         </div>
 
-    design:
+      design:
       columns: '1'
 
 ---
