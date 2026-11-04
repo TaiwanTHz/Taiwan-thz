@@ -343,12 +343,12 @@ National Yang Ming Chiao Tung University
 </tr>
 
 <tr class="special-row">
-<td>12:20 – 13:30</td>
+<td>12:20 – 13:10</td>
 <td>Lunch</td>
 </tr>
 
 <tr class="special-row">
-<td>13:30 – 14:00</td>
+<td>13:10 – 14:00</td>
 <td>Poster Session (Hallway)</td>
 </tr>
 
@@ -414,8 +414,8 @@ Nagoya University
 <tr>
 <td>16:50 – 17:20</td>
 <td>
-<strong>Yuan-Hao Huang</strong><br>
-National Tsing Hua University
+<strong>Tae-In Jeon</strong><br>
+Korea Maritime and Ocean University
 </td>
 </tr>
 
@@ -500,8 +500,8 @@ National Cheng Kung University
 <tr>
 <td>10:20 – 10:50</td>
 <td>
-<strong>Tae-In Jeon</strong><br>
-Korea Maritime and Ocean University
+<strong>Yuan-Hao Huang</strong><br>
+National Tsing Hua University
 </td>
 </tr>
 
@@ -522,24 +522,19 @@ Yokohama National University
 </tr>
 
 <tr class="special-row">
-<td>11:50 – 12:40</td>
+<td>11:50 – 13:00</td>
 <td>Lunch</td>
 </tr>
 
-<tr class="special-row">
-<td>12:40 – 13:30</td>
-<td>Poster Session (Hallway)</td>
-</tr>
-
 <tr class="session-row">
-<td>13:30 – 16:00</td>
+<td>13:00 – 15:30</td>
 <td>
 <strong>Session G</strong>
 </td>
 </tr>
 
 <tr>
-<td>13:30 – 14:00</td>
+<td>13:00 – 13:30</td>
 <td>
 <strong>Masahiko Tani</strong><br>
 University of Fukui
@@ -547,7 +542,7 @@ University of Fukui
 </tr>
 
 <tr>
-<td>14:00 – 14:30</td>
+<td>13:30 – 14:00</td>
 <td>
 <strong>Chan-Shan Yang</strong><br>
 National Taiwan Normal University
@@ -555,7 +550,7 @@ National Taiwan Normal University
 </tr>
 
 <tr>
-<td>14:30 – 15:00</td>
+<td>14:00 – 14:30</td>
 <td>
 <strong>Hideaki Kitahara</strong><br>
 University of Fukui
@@ -563,7 +558,7 @@ University of Fukui
 </tr>
 
 <tr>
-<td>15:00 – 15:30</td>
+<td>14:30 – 15:00</td>
 <td>
 <strong>Jung-Ping Liu</strong><br>
 Feng Chia University
@@ -571,7 +566,7 @@ Feng Chia University
 </tr>
 
 <tr>
-<td>15:30 – 16:00</td>
+<td>15:00 – 15:30</td>
 <td>
 <strong>Okada Ryoma</strong><br>
 Nara Institute of Science Technology
@@ -579,12 +574,12 @@ Nara Institute of Science Technology
 </tr>
 
 <tr class="special-row">
-<td>16:00 – 16:10</td>
+<td>15:30 – 15:40</td>
 <td>Closing Ceremony</td>
 </tr>
 
 <tr class="special-row">
-<td>16:10 – 21:00</td>
+<td>15:40 – 20:00</td>
 <td>Conference Excursion</td>
 </tr>
 
