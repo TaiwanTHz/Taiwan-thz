@@ -104,7 +104,7 @@ share: false
 }
 </style>
 
-<div class="speaker-section">
+<div class="speaker-section" style="display:none;">
 
 <h2>Invited Speakers</h2>
 
@@ -269,125 +269,111 @@ University of Fukui, Japan
 
 <tr class="session-row">
 <td>8:30 – 10:00</td>
-<td>
-<strong>Session A</strong> 
-</td>
+<td>Session A: Terahertz Spectroscopy I</td>
 </tr>
 
 <tr>
 <td>8:30 – 9:00</td>
 <td>
-<strong>Kodo Kawase</strong><br>
-Nagoya University
+<strong>Advances in is-TPG for Real-Time Spectroscopy</strong><br>
+Kodo Kawase — Nagoya University
 </td>
 </tr>
 
 <tr>
 <td>9:00 – 9:30</td>
 <td>
-<strong>Hyeyoung Ahn</strong><br>
-National Yang Ming Chiao Tung University
+<strong>THz Spectroscopic Analysis of Low-Dimensional Perovskites</strong><br>
+Hyeyoung Ahn — National Yang Ming Chiao Tung University
 </td>
 </tr>
 
 <tr>
 <td>9:30 – 10:00</td>
 <td>
-<strong>Fabian Rotermund</strong><br>
-Korea Advanced Institute of Science &amp; Technology
+<strong>Efficient Generation of Broadband THz Waves and Their Applications in Nonlinear Spectroscopy</strong><br>
+Fabian Rotermund — Korea Advanced Institute of Science &amp; Technology
 </td>
 </tr>
 
 <tr class="special-row">
-<td>10:00 – 10:20</td>
+<td>10:00 – 10:30</td>
 <td>Coffee Break</td>
 </tr>
 
 <tr class="session-row">
-<td>10:20 – 12:20</td>
+<td>10:30 – 12:00</td>
+<td>Session B: Terahertz Spectroscopy II</td>
+</tr>
+
+<tr>
+<td>10:30 – 11:00</td>
 <td>
-<strong>Session B</strong> 
+<strong>THz Near-Field Microscopy of Metasurfaces</strong><br>
+Jaime Gomez Rivas — Eindhoven University of Technology
 </td>
 </tr>
 
 <tr>
-<td>10:20 – 10:50</td>
+<td>11:00 – 11:30</td>
 <td>
-<strong>Jaime Gomez Rivas</strong><br>
-Eindhoven University of Technology
+<strong>First Principle Studies of THz Vibrational Spectroscopy of Materials</strong><br>
+Michitoshi Hayashi — National Taiwan University
 </td>
 </tr>
 
 <tr>
-<td>10:50 – 11:20</td>
+<td>11:30 – 12:00</td>
 <td>
-<strong>Michitoshi Hayashi</strong><br>
-National Taiwan University
-</td>
-</tr>
-
-<tr>
-<td>11:20 – 11:50</td>
-<td>
-<strong>Tsun-Hsu Chang</strong><br>
-National Tsing Hua University
-</td>
-</tr>
-
-<tr>
-<td>11:50 – 12:20</td>
-<td>
-<strong>Chien-Ming Tu</strong><br>
-National Yang Ming Chiao Tung University
+<strong>TBD</strong><br>
+Tsun-Hsu Chang — National Tsing Hua University
 </td>
 </tr>
 
 <tr class="special-row">
-<td>12:20 – 13:10</td>
+<td>12:00 – 13:00</td>
 <td>Lunch</td>
 </tr>
 
 <tr class="special-row">
-<td>13:10 – 14:00</td>
+<td>13:00 – 14:00</td>
 <td>Poster Session (Hallway)</td>
 </tr>
 
 <tr class="session-row">
 <td>14:00 – 16:00</td>
-<td>
-<strong>Session C</strong> 
-</td>
+<td>Session C: Terahertz Devices</td>
 </tr>
 
 <tr>
 <td>14:00 – 14:30</td>
 <td>
-<strong>Chun-Hsing Li</strong><br>
-National Taiwan University
+<strong>A 324-to-360-GHz –6-dBm Output Power THz Phase-Locked Loop in 40-nm CMOS</strong><br>
+Chun-Hsing Li — National Taiwan University
 </td>
 </tr>
 
 <tr>
 <td>14:30 – 15:00</td>
 <td>
-<strong>Yu-Hsiang Cheng</strong><br>
-National Taiwan University
+<strong>Recent Developments on 300 GHz Antennas</strong><br>
+Yu-Hsiang Cheng — National Taiwan University
 </td>
 </tr>
 
 <tr>
 <td>15:00 – 15:30</td>
 <td>
-<strong>Zuo-Min Tsai</strong><br>
-National Yang Ming Chiao Tung University
+<strong>100 GHz 4D Radar Using Heterogeneous Integration Techniques</strong><br>
+Zuo-Min Tsai — National Yang Ming Chiao Tung University
 </td>
 </tr>
 
 <tr>
 <td>15:30 – 16:00</td>
 <td>
-<strong>Chien-Nan Kuo</strong><br>
-National Yang Ming Chiao Tung University
+<strong>TBD</strong><br>
+Chien-Nan Kuo — National Yang Ming Chiao Tung University
 </td>
 </tr>
 
@@ -398,32 +384,30 @@ National Yang Ming Chiao Tung University
 
 <tr class="session-row">
 <td>16:20 – 17:50</td>
-<td>
-<strong>Session D</strong>
-</td>
+<td>Session D: Terahertz Sensing I</td>
 </tr>
 
 <tr>
 <td>16:20 – 16:50</td>
 <td>
-<strong>Kosuke Murate</strong><br>
-Nagoya University
+<strong>Progress and Potential of Terahertz Parametric Detection</strong><br>
+Kosuke Murate — Nagoya University
 </td>
 </tr>
 
 <tr>
 <td>16:50 – 17:20</td>
 <td>
-<strong>Tae-In Jeon</strong><br>
-Korea Maritime and Ocean University
+<strong>THz-TDS for Precision Molecular Sensing: From Laboratory Spectroscopy to Long-Range Gas Detection</strong><br>
+Tae-In Jeon — Korea Maritime and Ocean University
 </td>
 </tr>
 
 <tr>
 <td>17:20 – 17:50</td>
 <td>
-<strong>Rayko Ivanov Stantchev</strong><br>
-National Sun Yat-sen University
+<strong>Measurement of Dielectric Loss Tangent for Low Loss Plastics by Terahertz Time-domain Spectroscopy</strong><br>
+Hideaki Kitahara — University of Fukui
 </td>
 </tr>
 
@@ -456,120 +440,114 @@ National Sun Yat-sen University
 
 <tr class="session-row">
 <td>8:30 – 10:00</td>
-<td>
-<strong>Session E</strong> 
-</td>
+<td>Session E: Terahertz Communication</td>
 </tr>
 
 <tr>
 <td>8:30 – 9:00</td>
 <td>
-<strong>Jin-Wei Shi</strong><br>
-National Taiwan University
+<strong>Ultrafast Photodiode with Near THz Bandwidth for AI and MMW-Over-Fiber Applications</strong><br>
+Jin-Wei Shi — National Taiwan University
 </td>
 </tr>
 
 <tr>
 <td>9:00 – 9:30</td>
 <td>
-<strong>Tsung-Tse Lin</strong><br>
-Tohoku University
+<strong>Advanced Terahertz Photonics Devices for Beyond 5G Wireless Communication Networks.</strong><br>
+Tsung-Tse Lin — Tohoku University
 </td>
 </tr>
 
 <tr>
 <td>9:30 – 10:00</td>
 <td>
-<strong>Sheng-Kwang Hwang</strong><br>
-National Cheng Kung University
+<strong>Terahertz-Wave Generation with High Spectral Purity and Wide Frequency Tunability Using Two Mutually Injected Semiconductor Lasers</strong><br>
+Sheng-Kwang Hwang — National Cheng Kung University
 </td>
 </tr>
 
 <tr class="special-row">
-<td>10:00 – 10:20</td>
+<td>10:00 – 10:30</td>
 <td>Coffee Break</td>
 </tr>
 
 <tr class="session-row">
-<td>10:20 – 11:50</td>
+<td>10:30 – 12:00</td>
+<td>Session F: Terahertz Sensing II</td>
+</tr>
+
+<tr>
+<td>10:30 – 11:00</td>
 <td>
-<strong>Session F</strong> 
+<strong>High-Speed, High-Sensitivity THz-TDS Based on Fast Scanning and Higher-Harmonic Lock-in Detection</strong><br>
+Masahiko Tani — University of Fukui
 </td>
 </tr>
 
 <tr>
-<td>10:20 – 10:50</td>
+<td>11:00 – 11:30</td>
 <td>
-<strong>Yuan-Hao Huang</strong><br>
-National Tsing Hua University
+<strong>Single-Shot Terahertz Detection Using Noncollinear Phase Matching</strong><br>
+Sota Mine — Okayama University
 </td>
 </tr>
 
 <tr>
-<td>10:50 – 11:20</td>
+<td>11:30 – 12:00</td>
 <td>
-<strong>Sota Mine</strong><br>
-Okayama University
-</td>
-</tr>
-
-<tr>
-<td>11:20 – 11:50</td>
-<td>
-<strong>Alexander Marvin Weiss</strong><br>
-Yokohama National University
+<strong>Stochastic Phenomena Revealed by Terahertz Single-Shot Detection</strong><br>
+Alexander Marvin Weiss — Yokohama National University
 </td>
 </tr>
 
 <tr class="special-row">
-<td>11:50 – 13:00</td>
+<td>12:00 – 13:00</td>
 <td>Lunch</td>
 </tr>
 
 <tr class="session-row">
 <td>13:00 – 15:30</td>
-<td>
-<strong>Session G</strong>
-</td>
+<td>Session G: Terahertz Imaging</td>
 </tr>
 
 <tr>
 <td>13:00 – 13:30</td>
 <td>
-<strong>Masahiko Tani</strong><br>
-University of Fukui
+<strong>Terahertz Single-Pixel Imaging in Signal Processing and Communication Perspectives</strong><br>
+Yuan-Hao Huang — National Tsing Hua University
 </td>
 </tr>
 
 <tr>
 <td>13:30 – 14:00</td>
 <td>
-<strong>Chan-Shan Yang</strong><br>
-National Taiwan Normal University
+<strong>Computational Three-Dimensional Imaging by Terahertz Wave</strong><br>
+Jung-Ping Liu — Feng Chia University
 </td>
 </tr>
 
 <tr>
 <td>14:00 – 14:30</td>
 <td>
-<strong>Hideaki Kitahara</strong><br>
-University of Fukui
+<strong>High-Speed THz Electric Field Imaging System Using a Polarization CMOS Image Sensor</strong><br>
+Okada Ryoma — Nara Institute of Science Technology
 </td>
 </tr>
 
 <tr>
 <td>14:30 – 15:00</td>
 <td>
-<strong>Jung-Ping Liu</strong><br>
-Feng Chia University
+<strong>Study of Photon-Drag-Effect-Induced Terahertz Emission in Novel Materials</strong><br>
+Chien-Ming Tu — National Yang Ming Chiao Tung University
 </td>
 </tr>
 
 <tr>
 <td>15:00 – 15:30</td>
 <td>
-<strong>Okada Ryoma</strong><br>
-Nara Institute of Science Technology
+<strong>Towards in-Vivo Skin Measurements with Single-Pixel THz Spectroscopic Cameras</strong><br>
+Rayko Ivanov Stantchev — National Sun Yat-sen University
 </td>
 </tr>
 
