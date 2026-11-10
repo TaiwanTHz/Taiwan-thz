@@ -93,7 +93,8 @@ sections:
         Sponsors
         </h3>
 
-        <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:25px 35px; max-width:1200px; margin:0 auto 20px auto;">
+        <!-- 第一排：3 個 -->
+        <div style="display:flex; justify-content:center; align-items:center; gap:25px 35px; margin-bottom:10px;">
 
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
         <img src="./image2(1).png"
@@ -118,11 +119,24 @@ sections:
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </div>
 
+        </div>
+
+
+        <!-- 第二排：2 個 -->
+        <div style="display:flex; justify-content:center; align-items:center; gap:25px 50px; margin-bottom:20px;">
+
         <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
         <img src="./prpc.webp"
         alt="PRPC"
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
         </div>
+
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./OT.png"
+        alt="Ohmplus Technology Inc."
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00); position:relative; top:-15px;"/>
+        </div>
+        
 
         </div>
 
