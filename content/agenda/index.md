@@ -283,7 +283,7 @@ Kodo Kawase /Nagoya University
 <tr>
 <td>9:00 – 9:30</td>
 <td>
-<strong>THz Spectroscopic Analysis of Low-Dimensional Perovskites</strong><br>
+<strong>THz Spectroscopic Analysis of Phase Transition in Low-Dimensional Perovskites</strong><br>
 Hyeyoung Ahn /National Yang Ming Chiao Tung University
 </td>
 </tr>
@@ -317,7 +317,7 @@ Jaime Gomez Rivas /Eindhoven University of Technology
 <tr>
 <td>11:00 – 11:30</td>
 <td>
-<strong>First Principle Studies of THz Vibrational Spectroscopy of Materials</strong><br>
+<strong>Terahertz Vibrational Spectroscopy of Molecular and Hybrid Solids</strong><br>
 Michitoshi Hayashi /National Taiwan University
 </td>
 </tr>
@@ -325,7 +325,7 @@ Michitoshi Hayashi /National Taiwan University
 <tr>
 <td>11:30 – 12:00</td>
 <td>
-<strong>TBD</strong><br>
+<strong>Microwave, Millimeter-Wave, and Terahertz Technologies: Sources and Applications</strong><br>
 Tsun-Hsu Chang /National Tsing Hua University
 </td>
 </tr>
@@ -406,7 +406,7 @@ Fabian Rotermund /Korea Advanced Institute of Science &amp; Technology
 <tr>
 <td>17:20 – 17:50</td>
 <td>
-<strong>Measurement of Dielectric Loss Tangent for Low Loss Plastics by Terahertz Time-domain Spectroscopy</strong><br>
+<strong>Measurement of Dielectric Loss Tangent for Low-Loss Plastics by Terahertz Time-domain Spectroscopy III</strong><br>
 Hideaki Kitahara /University of Fukui
 </td>
 </tr>
@@ -446,7 +446,7 @@ Hideaki Kitahara /University of Fukui
 <tr>
 <td>8:30 – 9:00</td>
 <td>
-<strong>Ultrafast Photodiode with Near THz Bandwidth for AI and MMW-Over-Fiber Applications</strong><br>
+<strong>Ultrafast Photodiode with THz bandwidth for AI and MMW-over-fiber Applications</strong><br>
 Jin-Wei Shi /National Taiwan University
 </td>
 </tr>
@@ -454,7 +454,7 @@ Jin-Wei Shi /National Taiwan University
 <tr>
 <td>9:00 – 9:30</td>
 <td>
-<strong>Advanced Terahertz Photonics Devices for Beyond 5G Wireless Communication Networks.</strong><br>
+<strong>Advanced Terahertz Photonics Devices for Beyond 5G Wireless Communication Networks</strong><br>
 Tsung-Tse Lin /Tohoku University
 </td>
 </tr>
@@ -480,7 +480,7 @@ Sheng-Kwang Hwang /National Cheng Kung University
 <tr>
 <td>10:30 – 11:00</td>
 <td>
-<strong>High-Speed, High-Sensitivity THz-TDS Based on Fast Scanning and Higher-Harmonic Lock-in Detection</strong><br>
+<strong>High-Speed, High-Dynamic Range THz-TDS Based on Fast Scanning and High-Harmonic Lock-in Detection</strong><br>
 Masahiko Tani /University of Fukui
 </td>
 </tr>
