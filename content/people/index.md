@@ -137,6 +137,11 @@ sections:
         style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00); position:relative; top:-15px;"/>
         </div>
         
+        <div style="width:220px; height:150px; display:flex; align-items:center; justify-content:center;">
+        <img src="./SUPERBIN.png"
+        alt="SUPERBIN"
+        style="max-width:100%; max-height:130px; width:auto; height:auto; object-fit:contain; transform:scale(1.00);"/>
+        </div>
 
         </div>
 
